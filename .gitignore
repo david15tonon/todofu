@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.eggs
+*.pyo
+
+# FastAPI
+instance/
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.env.*
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React
+build/
+dist/
+
+# MongoDB
+*.log
+*.lock
+mongod.lock
+mongod.pid
+mongod.sock
+mongo-data/
+dump/
+
+# System Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Miscellaneous
+*.log
+*.tmp
+*.temp
